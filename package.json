@@ -1,6 +1,6 @@
 {
   "name": "eslint-rules-style",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint rules which enforce style.",
   "author": {
     "name": "Athan Reines",
